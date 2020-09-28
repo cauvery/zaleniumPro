@@ -1,0 +1,10 @@
+*.html
+**/*.pyc
+assets
+report
+report/*
+**/.cache
+**/.DS_Store
+**/__pycache__
+**/.idea
+__pycache__
